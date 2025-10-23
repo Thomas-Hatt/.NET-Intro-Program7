@@ -1,0 +1,10 @@
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 7\Program 7\bin\Debug\Program 7.exe.config
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 7\Program 7\bin\Debug\Program 7.exe
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 7\Program 7\bin\Debug\Program 7.pdb
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 7\Program 7\obj\Debug\Program 7.csproj.AssemblyReference.cache
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 7\Program 7\obj\Debug\Program_7.frmMovies.resources
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 7\Program 7\obj\Debug\Program_7.Properties.Resources.resources
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 7\Program 7\obj\Debug\Program 7.csproj.GenerateResource.cache
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 7\Program 7\obj\Debug\Program 7.csproj.CoreCompileInputs.cache
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 7\Program 7\obj\Debug\Program 7.exe
+C:\Users\clutc\Desktop\College\Introduction to .NET Programming\Program 7\Program 7\obj\Debug\Program 7.pdb
